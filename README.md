@@ -50,7 +50,7 @@ A simplified project-task management system built with Laravel backend and React
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/project-task-management.git
+   https://github.com/Abhishekdigiversal/task_manager.git
    cd project-task-management/backend
 2. **Install PHP dependencies**
    composer install
